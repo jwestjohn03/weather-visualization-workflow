@@ -10,7 +10,7 @@ The pipeline compares two user-selected years and generates choropleth maps for:
 It also includes difference maps to highlight changes between the two years.
 
 ## Output
-Sample visualizations are included in the `visualizations/` folder.
+Sample visualizations are included in the `visuals/` folder.
 
 ## Tools Used
 - Python
